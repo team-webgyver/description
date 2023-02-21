@@ -299,7 +299,7 @@ webgyber-frontend
 
 ---
 
-![역할_분배](/uploads/c589c26881669c3be7a295e81d869c81/역할_분배.png)
+![역할_분배](https://user-images.githubusercontent.com/79851833/220334055-79f855ff-032e-49a5-9783-7f9863b596b0.png)
 
 ## ✔ 프로젝트 산출물
 
@@ -338,8 +338,8 @@ webgyber-frontend
 - 올바른 카드 정보여야 합니다.
 
 <p align="left">
-<img width="30%" src="/uploads/aac89b8717172a0d545a2b23304727e4/1-signup.gif"/>
-<img width="30%" src="/uploads/d8c8b4a067c4da27d0f45525d56caa1d/1-signup2.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334177-16cc4bbc-cfad-4b46-94ab-95e5850d9dd3.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334270-4a90e345-d697-403d-b348-8f9855182efa.png"/>
 </p>
 
 <br>
@@ -350,7 +350,7 @@ webgyber-frontend
 - 아이디는 전문가 아이디와 중복될 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/d5b2faef6dc43ccc4462dae6cd8e56db/2-login.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334344-0588457e-8ace-43da-98b0-bf3a488a7a89.png"/>
 </p>
 
 <br>
@@ -361,7 +361,7 @@ webgyber-frontend
 - 최하단부에 전문가용 페이지로 이동할 수 있는 버튼이 있습니다. (PC에서 이용해주세요.)
 
 <p align="left">
-<img width="30%" src="/uploads/97c738e19f07b1c40342141f2e79162d/3-mainpage.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334423-e8d5a8c0-4871-4b87-88ca-686347430139.png"/>
 </p>
 
 <br>
@@ -377,8 +377,8 @@ webgyber-frontend
 - 5분 이내에 예약 확정, 취소 문자를 받을 수 있습니다.
 
 <p align="left">
-<img width="30%" src="/uploads/7d65b78a7e2efa796b3e8cad2f6eacd8/4-reservation.gif"/>
-<img width="30%" src="/uploads/1133277713c65a94da1a7972eb605212/4-reservation2.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334487-640b739d-d212-4c16-b3a7-6ab709531336.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220334557-367fcae5-05ef-499c-a368-59240d834297.png"/>
 <img width="30%" src="/uploads/50da0272f927f316fb23f483eda177f9/4-reservation3.gif"/>
 </p>
 

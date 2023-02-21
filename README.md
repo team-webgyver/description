@@ -301,6 +301,16 @@ webgyber-frontend
 
 ![역할_분배](https://user-images.githubusercontent.com/79851833/220334055-79f855ff-032e-49a5-9783-7f9863b596b0.png)
 
+## Contact Us
+| 성명 | 깃허브아이디 | 기술스택 |
+| --- | --- | --- |
+| [김동준](https://github.com/Dev-Jun125) | Dev-Jun125 | JAVA / SpringBoot |
+| [간호성](https://github.com/ghs93) |  ghs93 | JAVA / SpringBoot |
+| [박일규](https://github.com/repeater1384) | repeater1384 | JAVA / SpringBoot |
+| [임희상](https://github.com/hslim9400) | hslim9400 | SpringBoot / React |
+| [전동인](https://github.com/qorzi) | qorzi | React + Recoil |
+| [허윤회](https://github.com/YoonHwe) | YoonHwe | Vue / React |
+
 ## ✔ 프로젝트 산출물
 
 ---

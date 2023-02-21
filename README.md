@@ -1,6 +1,6 @@
 # 🛠 WEBGYVER - 화상상담 수리 서비스
 
-![Webgyver_font](/uploads/6505b030fa64300367f7602dce80312b/Webgyver_font.png)
+![Webgyver_font](https://user-images.githubusercontent.com/79851833/220332811-8d2904e1-d2f8-4e29-bd43-f168583fef76.png)
 
 ### WEBGYVER 고객(모바일 화면) : [Webgyver 고객 바로가기](https://webgyver.site/)
 
@@ -10,7 +10,7 @@
 
 ### WEBGYVER QR
 <p align="center">
-<img width="30%" src="/uploads/91f7bb3b71999aaeca5bc426f8bb376c/qrcode_webgyver_1.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/79851833/220333034-fc6b8125-7df2-4bb7-b3b6-99306289c6a4.png"/>
 </p>
 
 ## 소개 영상 보기 : https://youtu.be/quGYpNUBP34
